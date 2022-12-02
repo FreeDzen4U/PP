@@ -1,0 +1,15 @@
+E:\PP\PP\bin\Debug\net7.0\PP.exe
+E:\PP\PP\bin\Debug\net7.0\PP.deps.json
+E:\PP\PP\bin\Debug\net7.0\PP.runtimeconfig.json
+E:\PP\PP\bin\Debug\net7.0\PP.dll
+E:\PP\PP\bin\Debug\net7.0\PP.pdb
+E:\PP\PP\obj\Debug\net7.0\PP.csproj.AssemblyReference.cache
+E:\PP\PP\obj\Debug\net7.0\PP.GeneratedMSBuildEditorConfig.editorconfig
+E:\PP\PP\obj\Debug\net7.0\PP.AssemblyInfoInputs.cache
+E:\PP\PP\obj\Debug\net7.0\PP.AssemblyInfo.cs
+E:\PP\PP\obj\Debug\net7.0\PP.csproj.CoreCompileInputs.cache
+E:\PP\PP\obj\Debug\net7.0\PP.dll
+E:\PP\PP\obj\Debug\net7.0\refint\PP.dll
+E:\PP\PP\obj\Debug\net7.0\PP.pdb
+E:\PP\PP\obj\Debug\net7.0\PP.genruntimeconfig.cache
+E:\PP\PP\obj\Debug\net7.0\ref\PP.dll
